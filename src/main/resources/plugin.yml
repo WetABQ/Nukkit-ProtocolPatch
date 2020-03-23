@@ -1,0 +1,6 @@
+name: NukkitProtocolPatch
+main: top.wetabq.nkpatch.NukkitProtocolPatch
+version: "${pom.version}"
+api: ["1.0.0"]
+load: POSTWORLD
+author: WetABQ
